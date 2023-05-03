@@ -1,2 +1,2 @@
 # Assignment-Jupyter-Notebook
-This is a Jupyter Notebook created as a part of Week 6 Assignment of IBM Data Science Professional Certification.
+This is the final assignment of Tools for Data Science Course in the IBM Data Science professional Certification.
